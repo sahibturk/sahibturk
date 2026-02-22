@@ -1,8 +1,11 @@
 # 💫 About Me  
-Data Analyst & Mentor helping students and professionals learn, grow, and land real opportunities.  
-Freelance Data Analyst skilled in **Python, SQL, Excel, and Power BI**, passionate about teaching and building community.  
-B.Tech (AI/ML) student supporting careers in data—offering resume help, job guidance, and hands-on projects.  
-Helping aspiring analysts break into data science with practical learning, content, and 1:1 guidance.
+Most people collect data.
+Very few know how to turn it into decisions.
+
+I’m a B.Tech (AI & ML) student who genuinely enjoys working with data — cleaning it, exploring it, visualizing it, and turning it into something useful.
+Over the past months, I’ve been building small but meaningful projects in Python, SQL, Power BI, and Excel to understand how businesses actually make decisions using data.
+
+I like keeping things simple — learn something, apply it, break a few things, fix them again, and share the journey openly.
 
 ---
 
